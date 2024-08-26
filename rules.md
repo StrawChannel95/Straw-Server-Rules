@@ -34,7 +34,6 @@
 * No NSFW content.
 * No illegal content.
 * No piracy.
-* No modding.
 * No homebrew.
 * No hacking.
 * No publishing of personal information (including real names, addresses, emails, passwords, bank account and credit card information, etc.).
@@ -62,21 +61,8 @@
 * No overusing reactions.
 * No external emojis.
 * Keep conversations in English.
-* Use #channel for conversations in another/other language(s).
 * Moderators reserve the right to delete any post.
 * Moderators reserve the right to edit any post.
-* No advertisement.
-* No advertisement without permission.
-* No links.
-* No linking to other servers.
-* No memes.
-* No pictures.
-* No gifs.
-* No bot commands.
-* Bot commands only under #channel.
-* List of allowed bot commands:
-* No channel hopping.
-* No offtopic/use the right text channel for the topic you wish to discuss.
 
 ## Voice chat rules
 
